@@ -1,2 +1,2 @@
 # API-WebStorage
-Este es el repositorio contiene ejemplos de sessionStorage y localStorage
+Este es el repositorio que contiene ejemplos de sessionStorage y localStorage
